@@ -1,26 +1,28 @@
-# Mi primer Bot de Telegram usando Python
-Basico de telegram utilizado la biblioteca TeleBot
+# My first Telegram Bot using Python
+Basic telegram bot using the TeleBot library
 
 ## Config
-Puedes clonar este repositorio y modificarlo para crear tu propio bot en Telegram, para ello:
+You can clone this repository and modify it to create your own bot on Telegram, to do this:
 
- 1. Clona este repo utilizando el comando `git clone` en tu terminal.
+ 1. Clone this repo using the `git clone` command in your terminal.
  ```bash
  git clone https://github.com/MarlonDevs/helloTlgBot.git
  ```
- 2. Instala las dependencias usando `pip install -r requierements.txt`.
+ 2. Install dependencies using `pip install -r requierements.txt`.
  
- 3. Crea o inicializa el bot en Telegram a traves de BotFather y obten tu Token `xxxxxxxxxxxx`.
+ 3. Create or initialize the bot in Telegram through BotFather and get your Token `xxxxxxxxxxxx`.
 
- 4. Remplaza `TU_TOKEN_AQUI` en el fichero 'main.py' con tu Token.
+ 4. Replace `YOUR_TOKEN_HERE` in the 'main.py' file with the Token given to you by BotFather.
 
- 5. Ejecuta el bot usando `python main.py`
+ 5. Run the bot using `python main.py`
 
  > [!NOTE]
- > Recuerda que puedes utilizar `ssh` y `github Cli` para clonar el repo en lugar `http o https`. Aunque para el ejemplo se use `http o https`, usa el que mas te guste.
+ > Remember that you can use `ssh` and `github Cli` to clone the repo instead of `http or https`. Even though the example uses `http or https`, use the one you like best or feel most comfortable with.
 
+> [!IMPORTAN]
+>
 
- ## ¿Que funcionalidad titne?
- - Funciona como moderador.
- - Responde a comandos como `/start` y `/help`.
- - Responde a ciertas preguntas pre establecidas.
+## What does it do? 
+- It acts as a moderator. 
+- It responds to commands like `/start` and `/help`. 
+- It answers certain pre-established questions.
