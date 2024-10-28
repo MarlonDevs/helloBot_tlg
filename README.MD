@@ -19,8 +19,8 @@ You can clone this repository and modify it to create your own bot on Telegram, 
  > [!NOTE]
  > Remember that you can use `ssh` and `github Cli` to clone the repo instead of `http or https`. Even though the example uses `http or https`, use the one you like best or feel most comfortable with.
 
-> [!IMPORTAN]
->
+> [!IMPORTANT]
+> Remember that the Token you use for your bot must always be private and only you should have access to it.
 
 ## What does it do? 
 - It acts as a moderator. 
